@@ -1,4 +1,4 @@
-package Basics_java;
+package Basics;
 import java.util.Scanner;
 
 public class practice_of_basics {

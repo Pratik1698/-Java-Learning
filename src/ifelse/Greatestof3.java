@@ -1,4 +1,4 @@
-package IF_ELSE;
+package ifelse;
 import java.util.Scanner;
 
 public class Greatestof3 {
